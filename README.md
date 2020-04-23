@@ -1,2 +1,2 @@
 # cu-material-pa-educa
-Open-source branding repository to empower educational creators like you.
+Open-source branding repository of 'Ban Cultiva' to empower educational creators like yourself.
