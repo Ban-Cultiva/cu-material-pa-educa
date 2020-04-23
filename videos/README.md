@@ -1,4 +1,4 @@
 # Videos
 These videos are created by the community for the community. They are meant for you to use them in your instructional and educational videos.
 ## Files for download
-l. [Five seconds promo cover video](five-seconds-promo-cover.mp4)
+l. [Five seconds promo cover video](https://github.com/Ban-Cultiva/cu-material-pa-educa/blob/master/videos/five-second-promo-cover.mp4?raw=true)
